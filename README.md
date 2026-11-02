@@ -27,4 +27,4 @@ time. Access can also be revoked from Pinterest's own settings under
 connected apps.
 
 ## Contact
-your-email@example.com
+nungotshi@gmail.com
